@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-non-null-assertion */
 // import Calendar from "@/components/Calender";
 import { Metadata } from "next";
 import DefaultLayout from "../../components/Layouts/DefaultLayout";
