@@ -10,6 +10,10 @@ require("@solana/wallet-adapter-react-ui/styles.css");
 require("../styles/globals.css");
 require("react-toastify/dist/ReactToastify.css");
 
+///////ayad///////////////
+import "../../css/satoshi.css";
+import "../../css/style.css";
+
 type NextPageWithLayout = NextPage & {
   getLayout?: (page: React.ReactNode) => React.ReactNode;
 };
